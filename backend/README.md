@@ -19,7 +19,7 @@ This is the backend of the File Management System, built using Node.js, Express.
 
 1. **Clone the repository**:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/NalindaGamaarachchi/ASCTest01
    cd backend
    ```
 
